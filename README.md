@@ -18,6 +18,7 @@ This analysis uses the demographic file from the NHANES dataset, which contains 
 - **INDFMPIR** → Family Income to Poverty Ratio
 
 A data dictionary is available with the dataset to explain variable definitions.
+A complete variable dictionary can be found here --> https://wwwn.cdc.gov/Nchs/Nhanes/Search/variablelist.aspx?Component=Demographics&CycleBeginYear=2013
 
 ## Analysis Performed
 The following exploratory analyses were conducted:
